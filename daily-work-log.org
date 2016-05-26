@@ -1,0 +1,19 @@
+#+title: Daily work log
+#+AUTHOR: Raghav Mittal
+#+email: raghav.mittal@st.niituniversity.in
+
+* Month of May
+** [2016-05-25 Wed]
+   + First day at VLEAD internship 2016
+   + attended bootcamp, learned about REST APIs
+   + revised concepts and syntex of Flask, SQLAlchemy, Emacs commands.
+
+
+** [2016-05-26 Thur]
+   + First discussion with  Mr. Sai Gollapudi
+   + Go through HLD doc for Semantic Style Sheets
+   + Intro to MongoDB
+
+** Weekly  Summary [2016-05-25 to 2016-05-31]
+*** TODO Propose design for Renarration studio
+*** TODO Propose technology for the studio
