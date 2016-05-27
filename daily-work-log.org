@@ -11,9 +11,14 @@
 
 ** [2016-05-26 Thur]
    + First discussion with  Mr. Sai Gollapudi
-   + Go through HLD doc for Semantic Style Sheets
+   + Go through HLD for Semantic Style Sheets
    + Intro to MongoDB
 
-** Weekly  Summary [2016-05-25 to 2016-05-31]
+** [2016-05-27 Fri] TODO
+   + go through HLDs available on github repos
+   + first step towards figuring out model for renarration studio
+   + MongoDB
+
+** this  Week [2016-05-25 to 2016-05-31] TODO
 *** TODO Propose design for Renarration studio
 *** TODO Propose technology for the studio
