@@ -8,17 +8,16 @@
    + attended bootcamp, learned about REST APIs
    + revised concepts and syntex of Flask, SQLAlchemy, Emacs commands.
 
-
 ** [2016-05-26 Thur]
    + First discussion with  Mr. Sai Gollapudi
    + Go through HLD for Semantic Style Sheets
    + Intro to MongoDB
 
-** [2016-05-27 Fri] TODO
+** [2016-05-27 Fri] carried to [2016-05-28 Sat]
    + go through HLDs available on github repos
    + first step towards figuring out model for renarration studio
    + MongoDB
 
-** this  Week [2016-05-25 to 2016-05-31] TODO
+** this  Week [2016-05-25] ==> [2016-05-31] TODO
 *** TODO Propose design for Renarration studio
 *** TODO Propose technology for the studio
