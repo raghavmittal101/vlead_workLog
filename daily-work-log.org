@@ -15,8 +15,14 @@
 
 ** [2016-05-27 Fri] carried to [2016-05-28 Sat]
    + go through HLDs available on github repos
-   + first step towards figuring out model for renarration studio
-   + MongoDB
+   + first step towards figuring out data model and design for renarration studio
+   + more into MongoDB
+** [2016-05-30 Mon]
+   + figuring out data model (NoSQL vs SQL vs Hybrid)
+   + figuring out requirements
+   + report work started
+   + went through annolet report
+   + figuring out implementation (bookmarklet vs portal)
 
 ** this  Week [2016-05-25] ==> [2016-05-31] TODO
 *** TODO Propose design for Renarration studio
