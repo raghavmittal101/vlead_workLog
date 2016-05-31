@@ -23,6 +23,7 @@
    + report work started
    + went through annolet report
    + figuring out implementation (bookmarklet vs portal)
+** [2016-05-30] carried to [2016-05-31]
 
 ** this  Week [2016-05-25] ==> [2016-05-31] TODO
 *** TODO Propose design for Renarration studio
