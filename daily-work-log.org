@@ -30,6 +30,26 @@
 
 * Month of June
 ** [2016-06-01 Wed]
-*** 
-*** 
+*** further discussion with Mr. Sai
++ discussed about development road map
++ I raised issues in present release road map, proposed a new road map
+++ *r0* 
+- functionality to fetch a web page
+++ *r1*
+- mock data containing users
+- let the user login and fetch web data
+- save url
+++ *r2*
+- let the user tag urls and save them in mock database
+- do CRUD operations
+++ *r3*
+- renarration of tags
+++ *r4*
+- database on cloud service
+- globally accessible
+- all previous features available
+- actual users
+
+*** created basic UI for user registration
+
 ** this Week [2016-06-01 Wed] --> [2016-06-07 Tue]
