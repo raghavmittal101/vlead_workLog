@@ -50,6 +50,7 @@
 - all previous features available
 - actual users
 
-*** created basic UI for user registration
+*** 
++  created basic UI for user registration
 
 ** this Week [2016-06-01 Wed] --> [2016-06-07 Tue]
