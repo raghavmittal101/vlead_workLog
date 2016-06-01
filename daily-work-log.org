@@ -17,14 +17,19 @@
    + go through HLDs available on github repos
    + first step towards figuring out data model and design for renarration studio
    + more into MongoDB
-** [2016-05-30 Mon]
+** [2016-05-30 Mon] carried to [2016-05-31 Tue]
    + figuring out data model (NoSQL vs SQL vs Hybrid)
    + figuring out requirements
    + report work started
    + went through annolet report
    + figuring out implementation (bookmarklet vs portal)
-** [2016-05-30] carried to [2016-05-31]
+** this  Week [2016-05-25 Wed] ==> [2016-05-31 Tue]
+   + Datamodel proposed to be in MongoDB. waiting for approval and review.
+   + went through W3C web annotation rules.
+   + found anno-server-prototype repository on GitHub by Mr. Anon useful
 
-** this  Week [2016-05-25] ==> [2016-05-31] TODO
-*** TODO Propose design for Renarration studio
-*** TODO Propose technology for the studio
+* Month of June
+** [2016-06-01 Wed]
+*** 
+*** 
+** this Week [2016-06-01 Wed] --> [2016-06-07 Tue]
