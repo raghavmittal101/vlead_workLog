@@ -53,4 +53,12 @@
 *** 
 +  created basic UI for user registration
 
+** [2016-06-02 Thu] PARTIALLY DONE
+*** TODO write requirements
+*** TODO present before prof.
+*** DONE go through rdfa, 
+*** TODO microdata
+*** DONE revise JavaScript
+*** DONE peep into alipi
+*** prio. on core functionality
 ** this Week [2016-06-01 Wed] --> [2016-06-07 Tue]
