@@ -67,4 +67,27 @@
    + reviewing alipi repo
    + started learning Selenium web driver
    + started learning BSL(basic racket)
+<<<<<<< HEAD
+   + unsuccessful attempts to run alipi in localhost
+** [2016-06-08 Wed]
++ completed first step towards realization
++ used selenium webdrivers for alipi like functionality
+** [2016-06-09 Thur]
++ patched CSS loading problem in Annolet
++ made gitraw Max CDN links for source files needed for loading Annolet
++ changed location of Annolet source files from gdrive to github in annolet
+javascript code.
+** [2016-06-10 Fri]
++ formatted present python code for renarration studio according to PEP8 standards
++ went through annotorius JS for better idea of tools but was of no help
++ wrote detailed requirements in work.org report.
++ Added multibrowser support for selenium but not tested.
+** this week [2016-06-08 Wed] --> [2016-06-14 Tue]
+**** TODO test multibrowser support in selenium
+**** TODO do program in literate manner
+**** TODO go through node.js and check if it is of any use to us
+**** TODO learn OOPs in Python and JS and also read about RESTful JS practices
+**** TODO develop AnnoletJS to work as Tagger
+=======
    + started learning Tkinter Python GUI
+>>>>>>> 1167abd06a935c318f915215f20d551b58f85541
