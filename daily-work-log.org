@@ -63,7 +63,7 @@
    + reviewing [[https://github.com/janastu/alipi][janastu/alipi]] code
    + have not enjoyed it till now
    + finally alipi runs on locahost after many failed attempts
-** this Week [2016-06-01 Wed] --> [2016-06-07 Tue]
+** This Week [2016-06-01 Wed] --> [2016-06-07 Tue]
    + reviewing alipi repo
    + started learning Selenium web driver
    + started learning BSL(basic racket)
@@ -82,12 +82,20 @@ javascript code.
 + went through annotorius JS for better idea of tools but was of no help
 + wrote detailed requirements in work.org report.
 + Added multibrowser support for selenium but not tested.
-** this week [2016-06-08 Wed] --> [2016-06-14 Tue]
-**** TODO test multibrowser support in selenium
-**** TODO do program in literate manner
-**** TODO go through node.js and check if it is of any use to us
-**** TODO learn OOPs in Python and JS and also read about RESTful JS practices
-**** TODO develop AnnoletJS to work as Tagger
-=======
-   + started learning Tkinter Python GUI
->>>>>>> 1167abd06a935c318f915215f20d551b58f85541
+** This Week [2016-06-08 Wed] --> [2016-06-14 Tue]
+**** Many improvements in Annolet functions
+**** started development of AnnoletJS to work as Tagger
+**** Added chrome browser support to selenium
+**** learnt Tkinter Python GUI basics
+** [2016-06-15 Wed]
+**** taking more Object oriented approach towards annolet
+**** need to work on makefile and cleaning of annolet and sssstudio app code
+**** getting more deep into Javascript
+**** added basic tagging feature in tagging tool(annolet)
+
+** This Week [2016-06-15 Wed] --> [2016-06-21 Tue]
+**** TODO test selenium on IE
+**** TODO read about RESTful JS practices
+**** TODO better extended UI for annolet
+**** TODO add data persistence to annolet
+**** TODO makefiles and requirement files for project
