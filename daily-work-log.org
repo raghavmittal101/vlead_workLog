@@ -52,7 +52,7 @@
 
 *** 
 +  created basic UI for user registration
-
+   
 ** [2016-06-02 Thu]
   + go through rdfa, 
   + microdata
@@ -83,15 +83,15 @@ javascript code.
 + wrote detailed requirements in work.org report.
 + Added multibrowser support for selenium but not tested.
 ** This Week [2016-06-08 Wed] --> [2016-06-14 Tue]
-**** Many improvements in Annolet functions
-**** started development of AnnoletJS to work as Tagger
-**** Added chrome browser support to selenium
-**** learnt Tkinter Python GUI basics
++ Many improvements in Annolet functions
++ started development of AnnoletJS to work as Tagger
++ Added chrome browser support to selenium
++ learnt Tkinter Python GUI basics
 ** [2016-06-15 Wed]
-**** taking more Object oriented approach towards annolet
-**** need to work on makefile and cleaning of annolet and sssstudio app code
-**** getting more deep into Javascript
-**** added basic tagging feature in tagging tool(annolet)
++ taking more Object oriented approach towards annolet
++ need to work on makefile and cleaning of annolet and sssstudio app code
++ getting more deep into Javascript
++ added basic tagging feature in tagging tool(annolet)
 
 ** This Week [2016-06-15 Wed] --> [2016-06-21 Tue]
 **** TODO test selenium on IE
