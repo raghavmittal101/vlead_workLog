@@ -109,6 +109,6 @@ javascript code.
 + implementation and design plans changed numerous times
 + due to undescided designs no progress done     
 ** [2016-06-22 Wed]
-   + Discussion with Sai sir about doubts regarding our roles and work
-   + We talked about problems we faced during development if webservices and broker
+   + Discussion with Sai sir about doubts regarding our(me and Raj's) roles and work
+   + We talked about problems we(me and Raj) faced during development if webservices and broker
    + Discussed about difference between API and webservices.
