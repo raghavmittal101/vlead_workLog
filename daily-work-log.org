@@ -67,7 +67,6 @@
    + reviewing alipi repo
    + started learning Selenium web driver
    + started learning BSL(basic racket)
-<<<<<<< HEAD
    + unsuccessful attempts to run alipi in localhost
 ** [2016-06-08 Wed]
 + completed first step towards realization
@@ -93,9 +92,23 @@ javascript code.
 + getting more deep into Javascript
 + added basic tagging feature in tagging tool(annolet)
 
+** [2016-06-16 Thur] ---> [2016-06-17 Fri]
+   + presented infront of Venkatesh sir. Need to create more design oriented reports.
+   + started learning UML modelling.
+   + created fixed Annolet for small bugs
+** [2016-06-20 Mon]
+   + Sai sir came out with new plan.
+   + decided to convert project into Aspect oriented programming approach
+** [2016-06-21 Tue]
+   + work on creation of weaver
+   + not much progress
+   + disscussion with Sai sir about difficulties in Aspect oriented design approach
 ** This Week [2016-06-15 Wed] --> [2016-06-21 Tue]
-**** TODO test selenium on IE
-**** TODO read about RESTful JS practices
-**** TODO better extended UI for annolet
-**** TODO add data persistence to annolet
-**** TODO makefiles and requirement files for project
++ makefiles and requirement files for project
++ went through many discussions with Sai sir
++ implementation and design plans changed numerous times
++ due to undescided designs no progress done     
+** [2016-06-22 Wed]
+   + Discussion with Sai sir about doubts regarding our roles and work
+   + We talked about problems we faced during development if webservices and broker
+   + Discussed about difference between API and webservices.
