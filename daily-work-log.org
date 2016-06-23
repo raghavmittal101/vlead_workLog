@@ -112,3 +112,12 @@ javascript code.
    + Discussion with Sai sir about doubts regarding our(me and Raj's) roles and work
    + We talked about problems we(me and Raj) faced during development if webservices and broker
    + Discussed about difference between API and webservices.
+   + Discussion with Venkatesh Sir about requirements and expectations from his side
+   + Also learned about system theory from him
+** [2016-06-23 Thu]
+   + Wrote down requirements and specs about Joiner. 
+   + Started developement of Joiner in JS takng OO approach.
+   + Discussion about our(me and Raj) progress with Sai sir and also figured out need of Entity diagrams
+and system charts in documention for now it will be done by Sai sir.
+   [[./page1.jpg]]
+   [[./page2.jpg]]
