@@ -129,3 +129,7 @@ and system charts in documention for now it will be done by Sai sir.
    - meeting with Venkatesh sir.
    - discussed about roadmap
    - learn importance of design and architecture of system.
+** [2016-06-28 Tue]
+   - successfully tested joiner with annolet as webservice.
+   - need to test it with webservices like phonetic and language translation.
+   - I am leaving early today.
