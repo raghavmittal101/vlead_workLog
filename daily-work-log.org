@@ -121,3 +121,11 @@ javascript code.
 and system charts in documention for now it will be done by Sai sir.
    [[./page1.jpg]]
    [[./page2.jpg]]
+** [2016-06-24 Fri] --> [2016-06-25 Sat]
+   - worked on joiner for joining webservices with annolet
+   - enhanced object oriented structure of annolet
+** [2016-06-27 Mon]
+   - worked on joiner testing
+   - meeting with Venkatesh sir.
+   - discussed about roadmap
+   - learn importance of design and architecture of system.
