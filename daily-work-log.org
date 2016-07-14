@@ -133,3 +133,9 @@ and system charts in documention for now it will be done by Sai sir.
    - successfully tested joiner with annolet as webservice.
    - need to test it with webservices like phonetic and language translation.
    - I am leaving early today.
+* Months of July
+** [2016-07-14 Thur]
++ me and Raj presented our work to all
++ need to fix bug in Selenium.
++ got certificate and check of internship
++ meeting minutes with Dinesh sir to be written down
